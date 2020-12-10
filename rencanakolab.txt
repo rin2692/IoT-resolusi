@@ -2,7 +2,6 @@
   *makassar
    *sengkang
 -interview
-
 //
+lagi dri fitur 2
 ini dari fitur 1
-ini dari fitur 1 lagi
